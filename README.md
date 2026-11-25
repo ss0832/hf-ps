@@ -184,4 +184,4 @@ General molecular geometry and basis representation, higher-angular-momentum int
 
 ## Development note
 
-This codebase was generated with AI assistance. The standalone baseline has been user-executed; the modular implementation still requires runtime testing. No license has been selected for this repository.
+This codebase was generated with AI assistance. The standalone baseline has been user-executed; the modular implementation still requires runtime testing. 
